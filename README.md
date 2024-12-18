@@ -1,0 +1,1 @@
+This repository contains a simple JavaScript function that demonstrates a common approach to handling null values. The function adds two numbers, but returns 0 if either number is null. This is a good illustration of a common error handling technique in JavaScript, but could potentially lead to unexpected behavior or even bugs if not properly handled in more complex scenarios.
